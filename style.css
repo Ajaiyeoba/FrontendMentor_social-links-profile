@@ -80,6 +80,7 @@ a:hover,
   text-decoration: none;
   background-color: hsl(75, 94%, 57%);
   cursor: pointer;
+  border-radius: 15px;
 }
 
 @media (min-width: 375px) {
